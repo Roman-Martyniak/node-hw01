@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-hw-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^10.0.1",
+    "nanoid": "^3.3.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roman-Martyniak/nodejs-hw-01.git"
+  },
+  "keywords": [],
+  "author": "Roman Martyniak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roman-Martyniak/nodejs-hw-01/issues"
+  }
+}
